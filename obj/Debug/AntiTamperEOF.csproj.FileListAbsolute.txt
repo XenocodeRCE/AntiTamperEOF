@@ -1,0 +1,12 @@
+c:\users\samjam53\documents\visual studio 2013\Projects\AntiTamperEOF\bin\Debug\AntiTamperEOF.exe.config
+c:\users\samjam53\documents\visual studio 2013\Projects\AntiTamperEOF\bin\Debug\AntiTamperEOF.exe
+c:\users\samjam53\documents\visual studio 2013\Projects\AntiTamperEOF\bin\Debug\AntiTamperEOF.pdb
+c:\users\samjam53\documents\visual studio 2013\Projects\AntiTamperEOF\bin\Debug\dnlib.dll
+c:\users\samjam53\documents\visual studio 2013\Projects\AntiTamperEOF\bin\Debug\dnlib.pdb
+c:\users\samjam53\documents\visual studio 2013\Projects\AntiTamperEOF\bin\Debug\dnlib.xml
+c:\users\samjam53\documents\visual studio 2013\Projects\AntiTamperEOF\obj\Debug\AntiTamperEOF.csprojResolveAssemblyReference.cache
+c:\users\samjam53\documents\visual studio 2013\Projects\AntiTamperEOF\obj\Debug\AntiTamperEOF.Properties.Resources.resources
+c:\users\samjam53\documents\visual studio 2013\Projects\AntiTamperEOF\obj\Debug\AntiTamperEOF.csproj.GenerateResource.Cache
+c:\users\samjam53\documents\visual studio 2013\Projects\AntiTamperEOF\obj\Debug\AntiTamperEOF.exe
+c:\users\samjam53\documents\visual studio 2013\Projects\AntiTamperEOF\obj\Debug\AntiTamperEOF.pdb
+C:\Users\samjam53\Documents\Visual Studio 2013\Projects\AntiTamperEOF\obj\Debug\AntiTamperEOF.Form1.resources
